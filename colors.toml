@@ -1,0 +1,38 @@
+# Warcraft III Forsaken inspired theme
+
+mode = "dark"
+
+accent = "#3dcf4a"
+selection = "#2a1638"
+muted = "#4a3d5c"
+
+background = "#0e0a12"
+dark_background = "#09060c"
+darker_background = "#050308"
+lighter_background = "#1a1224"
+
+foreground = "#c8c4d0"
+dark_foreground = "#5a5268"
+light_foreground = "#a89eb8"
+bright_foreground = "#e8e4f0"
+
+hyprland_active_border = "rgba(550081ee) rgba(21bf00ee) 45deg"
+hyprland_inactive_border = "rgba(2a1638aa)"
+active_border_color = "#7a3aad"
+active_tab_background = "#3dcf4a"
+
+red = "#c43c3c"
+yellow = "#c9a84c"
+orange = "#b86b3c"
+green = "#3dcf4a"
+cyan = "#1be7ba"
+blue = "#3d6bff"
+magenta = "#7a3aad"
+brown = "#4a3028"
+
+bright_red = "#e05555"
+bright_yellow = "#e0c06a"
+bright_green = "#5ae86a"
+bright_cyan = "#5af0d0"
+bright_blue = "#6b8fff"
+bright_magenta = "#a855e0"
