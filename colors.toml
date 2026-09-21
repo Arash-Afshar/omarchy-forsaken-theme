@@ -18,8 +18,6 @@ bright_foreground = "#e8e4f0"
 
 hyprland_active_border = "rgba(550081ee) rgba(21bf00ee) 45deg"
 hyprland_inactive_border = "rgba(2a1638aa)"
-active_border_color = "#7a3aad"
-active_tab_background = "#3dcf4a"
 
 red = "#c43c3c"
 yellow = "#c9a84c"

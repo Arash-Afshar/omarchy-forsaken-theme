@@ -1,21 +1,48 @@
 # Forsaken — Omarchy theme
 
-A Warcraft III Forsaken inspired theme for [Omarchy](https://omarchy.org/).
+An unofficial, Warcraft III–inspired undead / Forsaken palette theme for
+[Omarchy](https://omarchy.org/).
+
+## Install
+
+```sh
+omarchy theme install https://github.com/Arash-Afshar/omarchy-forsaken-theme
+```
 
 ## Palette
 
-| Role | Hex | Source |
+| Role | Hex | Notes |
 |------|-----|--------|
-| Purple | `#550081` | WC3 Player 4 (Scourge / Forsaken banners) |
-| Plague green | `#21BF00` | WC3 Player 7 (plague / Cult of the Damned) |
-| Teal | `#1BE7BA` | WC3 Player 3 (banshee / Sylvanas accents) |
-| Blue | `#0042FF` | WC3 Player 2 (Sylvanas' Forces) |
+| Purple | `#550081` | Tuned from classic WC3 team purple |
+| Plague green | `#21BF00` | Tuned from classic WC3 team green |
+| Teal | `#1BE7BA` | Accent teal |
+| Blue | `#0042FF` | Tuned from classic WC3 team blue |
 | Necropolis | `#0e0a12` | UI background |
 | Bone | `#c8c4d0` | Foreground |
 
 Accent leans plague-green; borders gradient purple → green.
 
+## License
 
-## Art Attribution
+**Configuration and documentation** (e.g. `colors.toml`, `icons.theme`,
+`keyboard.rgb`, `shell.lock.toml`, README text) are under the MIT License —
+see `LICENSE`.
 
-The crest and colorscheme are both AI generated and are based on and inspired by Forsaken Crest and Undead colorscheme in WarCraft  3.
+**Artwork** (`backgrounds/`, `preview.png`, `preview-unlock.png`, `unlock.png`)
+is **not** MIT-licensed. It is original fan-inspired work by Arash Afshar.
+You may use it with this theme for personal, non-commercial desktop theming.
+Do not sell the artwork, claim Blizzard affiliation, or relicense it under MIT
+or another commercial-friendly license.
+
+## Trademark notice
+
+Warcraft® and related names and marks are trademarks or registered trademarks
+of Blizzard Entertainment, Inc. in the U.S. and/or other countries. This project
+is an unofficial fan work and is not affiliated with, endorsed by, or sponsored
+by Blizzard Entertainment.
+
+## Art attribution
+
+The crest and wallpaper are AI-assisted originals inspired by the look of the
+Warcraft III undead / Forsaken aesthetic. They are not official Blizzard assets
+and are not copied from game files.
